@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Rakha Shidqi
 
-Welcome to my GitHub profile! I'm a passionate [Your Profession] with a strong focus on [Your Key Skills or Technologies]. I love solving problems, building innovative solutions, and contributing to exciting projects.
+Welcome to my GitHub profile! I'm a passionate IT Application System Specialist with a strong focus on system Analyst. I love solving problems, building innovative solutions, and contributing to exciting projects.
 
 ## 🚀 About Me
 
