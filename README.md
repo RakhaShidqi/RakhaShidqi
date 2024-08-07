@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate [Your Profession] with a strong f
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_title=false&count_private=true&hide=prs&theme=radical)
+![RakhaShidqi's Stats](https://github-readme-stats.vercel.app/api?username=RakhaShidqi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 📜 Latest Blog Posts
 
