@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate IT Application System Specialist 
 ![RakhaShidqi's Stats](https://github-readme-stats.vercel.app/api?username=RakhaShidqi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 📈 Language Stats
-![RakhaShidqi's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RakhaShidqi&theme=vue-dark)
+![RakhaShidqi's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RakhaShidqi)
 
 ## 📜 Latest Blog Posts
 
